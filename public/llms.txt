@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Experience the thrill of case opening with SD drop&#39;s snowex sd 600 system. Unbox rare items, compete for prizes, and win big in our fair gaming platform.
+
+### How It Works
+https://example.com/how-it-works
+Learn how SD drop&#39;s snowex drop spreader mechanism works. Simple steps to open cases, claim rewards, and maximize your winning potential with proven fairness.
+
+### Fair Play & Safety
+https://example.com/fair-play
+SD drop guarantees transparent gaming using verified snowex drop pro 600 parts technology. Provably fair algorithms, secure transactions, and player protection.
+
+### Contact
+https://example.com/contact
+Need help with your snowex sd 600 account or have questions? Contact SD drop&#39;s expert support team for fast assistance with cases, withdrawals, and more.
+
+### Products
+https://example.com/products
+Our Products - SD drop
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - SD drop
+
+### Category
+https://example.com/category/:slug
+Products - SD drop
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
